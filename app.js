@@ -7,7 +7,7 @@
 const colaboradores = [
     {nombre: "Joel Aguilar", twitter: "@djoelalexis"},
     {nombre: "Jorge Zuñiga", twitter: "@Jorge"},
-    {nombre: "Joel Aguilar", twitter: "@djoelalexis"},
+    {nombre: "Rosa Silví", twitter: "@Rosasilvi"},
     {nombre: "Joel Aguilar", twitter: "@djoelalexis"},
     {nombre: "Joel Aguilar", twitter: "@djoelalexis"},
     {nombre: "Joel Aguilar", twitter: "@djoelalexis"},
